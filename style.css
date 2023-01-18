@@ -37,11 +37,13 @@
 
 }
 .titleFormat{
-    padding-bottom: 11px;
+    margin-bottom: 10px;
 }
-.pageBackground div{
+.pageBackground >div{
     display: inline-block;
 }
-
+.titleFormat span:last-child{
+    float: right;
+}
 
 
